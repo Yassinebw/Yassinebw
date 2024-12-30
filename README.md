@@ -1,4 +1,4 @@
-# Hi there, I'm Yassinebw 👋
+# Hi there, I'm Yassine Ben Ouirane 👋
 
 ## 👨‍💻 About Me
 
