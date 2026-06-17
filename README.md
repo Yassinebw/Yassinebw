@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on various interesting projects.
 - 🌱 I’m currently learning advanced algorithms and machine learning.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 💬 Ask me about Python, JavaScript, web and mobile development.
 - 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/yassinebw/](https://www.linkedin.com/in/yassine-ben-ouirane-b891141b1/))
 - ⚡ Fun fact: I'm a big fan of open-source projects!
 
